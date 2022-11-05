@@ -36,8 +36,12 @@ Using the AlexNet design, a convolutional neural network, to develop an algorith
 <img width="600" alt="AAPicture 1" src="https://user-images.githubusercontent.com/90009399/200141945-57c8fa67-b18d-475a-a13d-8f4343cb9d23.png">
 
 
+### Training and Validation of data
 
+<img width="470" alt="aaaa" src="https://user-images.githubusercontent.com/90009399/200143123-30ef9010-9235-4714-acdf-d2a499c08fe9.png">
 
+### Confusion Matrix
+<img width="323" alt="confmatrix" src="https://user-images.githubusercontent.com/90009399/200143124-e85a987f-721e-48f8-8b16-e699ae20b84c.png">
 
 
 
